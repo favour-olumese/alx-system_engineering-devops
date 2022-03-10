@@ -1,0 +1,2 @@
+#!/bin/bash
+find -type f -printf "%TY-%Tm-%Td %TH:%TM:%TS\t%h/%f\n" | sort -r | head

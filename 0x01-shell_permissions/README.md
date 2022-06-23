@@ -7,7 +7,7 @@
 
 `3-new_owner` - Script that changes the onwer of a file called "hello" to the user "betty."
 
-`4-empty` - Script that create an empty file called "hello"
+`4-empty` - Script that create an empty file called "hello."
 
 `5-execute` - Script that adds execute permission to the onwer of the file "hello."
 
@@ -23,4 +23,4 @@
 
 `9-John_Doe` - Script that sets the mode of the file "hello" to -rwxr-x-wx.
 
-`10-mirror_permissions`- Script that sets the mode of the file "hello" to -rw-rw-r--
+`10-mirror_permissions`- Script that sets the mode of the a file, "hello", to have same mode as another file called "olleh."

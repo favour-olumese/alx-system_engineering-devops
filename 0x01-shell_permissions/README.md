@@ -23,4 +23,4 @@
 
 `9-John_Doe` - Script that sets the mode of the file "hello" to -rwxr-x-wx.
 
-`10-mirror_permissions`- Script that sets the mode of the a file, "hello", to have same mode as another file called "olleh."
+`10-mirror_permissions` - Script that sets the mode of the a file, "hello", to have same mode as another file called "olleh."

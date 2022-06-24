@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod +x $(Find -type d)
+sudo chmod +x $(find -type d)

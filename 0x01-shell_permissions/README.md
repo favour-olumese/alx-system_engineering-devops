@@ -170,3 +170,7 @@ chown --from=<user_name_to_check> <new_owner>
 ```shell
 telnet towel.blinkenlights.nl
 ```
+
+## Resources
+### Learn more about chown
+* [Chown Command: Change Owner of File in Linux](https://phoenixnap.com/kb/linux-chown-command-with-examples)

@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 1 iacta > dup.txt | cat >> iacta
+tail -n 1 iacta | cat >> iacta

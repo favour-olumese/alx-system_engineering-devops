@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type f -printf "%c %f\n" | sort -r | head
+find -type f -printf "%t %f\n" | sort -r | head
